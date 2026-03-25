@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "[servercurve]", 
+    "address": "https://anisette-v3-server-mwhu.onrender.com"
 }
